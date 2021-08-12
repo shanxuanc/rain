@@ -1,0 +1,39 @@
+2021-08-12 09:50:24,170 [INFO] [background-preinit] [Version.java:21] HV000001: Hibernate Validator 6.1.5.Final
+2021-08-12 09:50:24,222 [INFO] [main] [StartupInfoLogger.java:55] Starting ProducerTest on GJRBJ-T002 with PID 17528 (started by Administrator in D:\IdeaProjects\rain\rain-producer)
+2021-08-12 09:50:24,222 [INFO] [main] [SpringApplication.java:655] The following profiles are active: dev
+2021-08-12 09:50:30,003 [INFO] [main] [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-12 09:50:30,499 [INFO] [main] [StartupInfoLogger.java:61] Started ProducerTest in 6.78 seconds (JVM running for 7.614)
+2021-08-12 09:50:30,739 [INFO] [main] [Demo01Producer.java:45] asyncSend success!!!
+2021-08-12 09:50:30,758 [INFO] [SpringContextShutdownHook] [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-12 09:50:30,769 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 09:50:30,774 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[10.8.9.46:10911] result: true
+2021-08-12 09:50:30,774 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 09:56:29,822 [INFO] [background-preinit] [Version.java:21] HV000001: Hibernate Validator 6.1.5.Final
+2021-08-12 09:56:29,849 [INFO] [main] [StartupInfoLogger.java:55] Starting ProducerTest on GJRBJ-T002 with PID 19960 (started by Administrator in D:\IdeaProjects\rain\rain-producer)
+2021-08-12 09:56:29,850 [INFO] [main] [SpringApplication.java:655] The following profiles are active: dev
+2021-08-12 09:56:35,992 [INFO] [main] [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-12 09:56:36,456 [INFO] [main] [StartupInfoLogger.java:61] Started ProducerTest in 7.073 seconds (JVM running for 7.913)
+2021-08-12 09:56:36,678 [INFO] [main] [Demo01Producer.java:45] asyncSend success!!!
+2021-08-12 09:56:36,698 [INFO] [SpringContextShutdownHook] [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-12 09:56:36,715 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[10.8.9.46:10911] result: true
+2021-08-12 09:56:36,719 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 09:56:36,720 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 10:09:12,396 [INFO] [background-preinit] [Version.java:21] HV000001: Hibernate Validator 6.1.5.Final
+2021-08-12 10:09:12,415 [INFO] [main] [StartupInfoLogger.java:55] Starting ProducerTest on GJRBJ-T002 with PID 19508 (started by Administrator in D:\IdeaProjects\rain\rain-producer)
+2021-08-12 10:09:12,416 [INFO] [main] [SpringApplication.java:655] The following profiles are active: dev
+2021-08-12 10:09:18,338 [INFO] [main] [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-12 10:09:18,813 [INFO] [main] [StartupInfoLogger.java:61] Started ProducerTest in 6.917 seconds (JVM running for 7.753)
+2021-08-12 10:09:19,033 [INFO] [main] [Demo01Producer.java:45] asyncSend success!!!
+2021-08-12 10:09:19,052 [INFO] [SpringContextShutdownHook] [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-12 10:09:19,073 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 10:09:19,074 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[10.8.9.46:10911] result: true
+2021-08-12 10:09:19,079 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 10:12:42,072 [INFO] [background-preinit] [Version.java:21] HV000001: Hibernate Validator 6.1.5.Final
+2021-08-12 10:12:42,112 [INFO] [main] [StartupInfoLogger.java:55] Starting ProducerTest on GJRBJ-T002 with PID 13504 (started by Administrator in D:\IdeaProjects\rain\rain-producer)
+2021-08-12 10:12:42,112 [INFO] [main] [SpringApplication.java:655] The following profiles are active: dev
+2021-08-12 10:12:47,884 [INFO] [main] [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-12 10:12:48,362 [INFO] [main] [StartupInfoLogger.java:61] Started ProducerTest in 6.74 seconds (JVM running for 7.612)
+2021-08-12 10:12:49,487 [INFO] [SpringContextShutdownHook] [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-12 10:12:49,498 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 10:12:49,501 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[127.0.0.1:9876] result: true
+2021-08-12 10:12:49,501 [INFO] [NettyClientSelector_1] [Slf4jLoggerFactory.java:95] closeChannel: close the connection to remote address[10.8.9.46:10911] result: true

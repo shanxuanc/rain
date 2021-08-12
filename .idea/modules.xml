@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rain.iml" filepath="$PROJECT_DIR$/rain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rain-api/rain-api.iml" filepath="$PROJECT_DIR$/rain-api/rain-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rain-common/rain-common.iml" filepath="$PROJECT_DIR$/rain-common/rain-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rain-consumer/rain-consumer.iml" filepath="$PROJECT_DIR$/rain-consumer/rain-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rain-producer/rain-producer.iml" filepath="$PROJECT_DIR$/rain-producer/rain-producer.iml" />
+    </modules>
+  </component>
+</project>
